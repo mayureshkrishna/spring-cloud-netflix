@@ -15,7 +15,7 @@
 	<description>Spring Cloud Netflix Spectator</description>
 	<properties>
 		<main.basedir>${basedir}/..</main.basedir>
-		<spectator.version>0.30.0</spectator.version>
+		<spectator.version>0.108.0</spectator.version>
 	</properties>
 	<build>
 		<plugins>
