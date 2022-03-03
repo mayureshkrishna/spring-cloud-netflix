@@ -16,11 +16,11 @@
 	<properties>
 		<archaius.version>0.7.5</archaius.version>
 		<eureka.version>1.7.0</eureka.version>
-		<feign.version>9.5.0</feign.version>
+		<feign.version>10.12</feign.version>
 		<hystrix.version>1.5.12</hystrix.version>
-		<ribbon.version>2.2.2</ribbon.version>
+		<ribbon.version>2.2.3</ribbon.version>
 		<servo.version>0.10.1</servo.version>
-		<zuul.version>1.3.0</zuul.version>
+		<zuul.version>2.1.8</zuul.version>
 		<rxjava.version>1.1.10</rxjava.version>
 		<java.version>1.7</java.version>
 		<turbine.version>1.0.0</turbine.version>
